@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lorenzo.lmaranho\\Source\\Repos\\Exerc-cioTI20N\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "C:\\Users\\lorenzo.lmaranho\\source\\repos\\Exerc-cioTI20N\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lorenzo.lmaranho\\Source\\Repos\\Exerc-cioTI20N\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\Users\\lorenzo.lmaranho\\source\\repos\\Exerc-cioTI20N\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lorenzo.lmaranho\\Source\\Repos\\Exerc-cioTI20N\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\Users\\lorenzo.lmaranho\\source\\repos\\Exerc-cioTI20N\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Users\\lorenzo.lmaranho\\Source\\Repos\\Exerc-cioTI20N\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "C:\\Users\\lorenzo.lmaranho\\source\\repos\\Exerc-cioTI20N\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\lorenzo.lmaranho\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lorenzo.lmaranho\\Source\\Repos\\Exerc-cioTI20N\\ConsoleApp1\\obj\\",
+        "outputPath": "C:\\Users\\lorenzo.lmaranho\\source\\repos\\Exerc-cioTI20N\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

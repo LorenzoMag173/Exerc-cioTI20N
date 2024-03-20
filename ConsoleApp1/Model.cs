@@ -428,6 +428,32 @@ public string ExercicioTrintaUm()
         //viagem, a distância percorrida e a quantidade de litros
         //utilizada na viagem
 
+public string ExercicioTrintaDois()
+{
+ static void Main(string[] args)
+    {
+        float tempo, velocidade_media, distancia, litros_usados;
+
+        Console.Write("Digite o tempo gasto na viagem: ");
+        tempo = float.Parse(Console.ReadLine());
+
+        Console.Write("Digite a velocidade média durante a viagem: ");
+        velocidade_media = float.Parse(Console.ReadLine());
+
+        distancia = tempo * velocidade_media;
+
+        litros_usados = distancia / 12;
+
+        Console.WriteLine("Velocidade média: " + velocidade_media + " km/h");
+        Console.WriteLine("Tempo gasto na viagem: " + tempo + " horas");
+        Console.WriteLine("Distância percorrida: " + distancia + " km");
+        Console.WriteLine("Quantidade de litros utilizada na viagem: " + litros_usados + " litros");
+    }
+
+}
+   
+
+
  //Exercício 41: Faça um algoritmo que leia os valores de A, B, C e em
         //seguida imprima na tela a soma entre A e B é mostre se a soma é menor que C.
 
@@ -485,6 +511,109 @@ public string ExercicioTrintaUm()
         //Deve-se fornecer ao usuário o tempo que será gasto na viagem a sua velocidade média,
         //distância percorrida e a quantidade de litros utilizados para fazer a viagem.
         // Fórmula: distância = tempo x velocidade.  litros usados = distância / 12.
+
+        
+         //Exercício 51: Faça um programa que crie um vetor de números inteiros e
+        //imprima todos os elementos desse vetor.
+
+ 
+
+        //Exercício 52: Faça um programa que crie um vetor de números inteiros e
+        //calcule a média dos valores presentes no vetor.
+
+ 
+
+        //Exercício 53:  Faça um programa que crie um vetor de números inteiros e
+        //imprima apenas os valores pares desse vetor.
+
+ 
+
+        //Exercício 54: Faça um programa que crie um vetor de números inteiros e
+        //imprima o maior e o menor valor presente no vetor.
+
+ 
+
+        //Exercício 55: Faça um programa que crie um vetor de números inteiros e
+        //imprima os elementos na ordem inversa.
+
+ 
+
+        //Exercício 56: Faça um programa que crie um vetor de números inteiros e
+        //calcule a soma de todos os valores presentes no vetor.
+
+ 
+
+        //Exercício 57: Faça um programa que crie dois vetores de números inteiros com o mesmo tamanho e
+        //realize a soma elemento por elemento desses vetores, armazenando o resultado em um terceiro vetor.
+
+ 
+
+        //Exercício 58: Faça um programa que crie um vetor de números inteiros e
+        //verifique se ele está em ordem crescente.
+
+ 
+
+        //Exercício 59: Faça um programa que crie um vetor de números inteiros e remova todos os
+        //elementos repetidos desse vetor, deixando apenas uma ocorrência de cada valor.
+
+ 
+
+        //Exercício 60: Faça um programa que crie um vetor de strings e
+        //imprima todos os elementos desse vetor em ordem alfabética.
+
+ 
+
+        //Exercício 61: Faça um programa que crie um vetor de números inteiros e
+        //verifique quantas vezes um determinado valor aparece no vetor.
+
+ 
+
+        //Exercício 62: Faça um programa que crie um vetor de números inteiros e
+        //verifique se ele está em ordem decrescente.
+
+ 
+
+        //Exercício 63: Faça um programa que crie um vetor de números inteiros e
+        //encontre o segundo maior valor presente no vetor.
+
+ 
+
+        //Exercício 64: Faça um programa que crie um vetor de números inteiros e
+        //inverta a ordem dos elementos desse vetor.
+
+ 
+
+        //Exercício 65: Faça um programa que crie um vetor de números inteiros e calcule a média dos valores
+        //presentes apenas nas posições pares do vetor.
+
+ 
+
+        //Exercício 66: Faça um programa que crie um vetor de números inteiros e verifique se ele é simétrico
+        //(se os elementos nas extremidades são iguais, os próximos também devem ser, e assim por diante).
+
+ 
+
+        //Exercício 67: Faça um programa que crie um vetor de números inteiros e verifique se ele
+        //é um vetor palíndromo (se a sequência de números é a mesma lida da esquerda
+        //para a direita e da direita para a esquerda).
+
+ 
+
+        //Exercício 68: Faça um programa que crie dois vetores de números inteiros e verifique se eles são iguais
+        //(se possuem os mesmos elementos na mesma ordem).
+
+ 
+
+        //Exercício 69:Faça um programa que crie um vetor de números inteiros e, em seguida,
+        //substitua todos os valores negativos por zero.
+
+ 
+
+        //Exercício 70: Faça um programa que crie um vetor de números inteiros e remova todas as ocorrências
+        //de um determinado valor no vetor.
+
+
+
 
 
 

@@ -277,6 +277,12 @@ namespace ExercíciosTI20N
                         Console.WriteLine("Código digitado não é valido!");
                         break;
 
+                    case 32:
+                        Console.WriteLine(modelo.ExercicioTrintaDois());
+                        break;
+
+                   
+
 
                 }//Fim da Operação
             } while (opcao != 0);
